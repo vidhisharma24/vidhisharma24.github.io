@@ -1,0 +1,42 @@
+
+<!doctype html>
+
+
+<html lang="en">
+
+  <header>
+    <title>Vidhi's High School Experiences</title>
+    <link rel="stylesheet" href = "css/master.css">
+    <link rel="FavIcon" href="favicon.ico" type = "image/x-icon">
+    <link rel="shortcut" href="favicon.ico" type ="image/x-icon">
+    <meta name = "viewport" content = "width-device.width, initial scale = 1, shrink-to-fit = no">
+    <meta name="name" content ="Vidhi Sharma's Portal">
+    <meta name="robots" content = "noindex, nofollow">
+  </header>
+
+  <body>
+    <hr>
+
+
+
+    <h1>High School Experiences</h1>
+    <h2>Hack TJ</h2>
+    <h3>Won the Best Hack Award for VALA Health, an app that diagnoses you based on your symptoms and allows you to send symptoms and diagnoses to your doctor. Member of the Hack TJ team, working to organize the nation’s largest high school hackathon. Responsible for sponsorships, workshops, and invoices.</h3>
+    <h2>Theater</h2>
+    <h3>Inductee of the International Thespian Society, a global theater honor society. Part of the Virginia High School League regional winning production, Patchwork Heart.</h3>
+    <h2>HOSA</h2>
+    <h3>Future Health Professionals State Finalist in the CPR/First-Aid Event.</h3>
+    <h2>FPS</h2>
+    <h3>Future Problem Solving States Qualifier.</h3>
+    <h2>ACSL</h2>
+    <h3>Finalist in the American Computer Science League Competition.</h3>
+    
+
+  </body>
+
+  <footer>
+  <hr>
+  <p><a href="index.html">Back to my portal</a><p>
+  </footer>
+
+</html>
